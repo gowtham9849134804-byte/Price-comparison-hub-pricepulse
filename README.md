@@ -1,4 +1,4 @@
-# Price-comparison-hub-pricepulse
+
 {
   "name": "price-compare-hub",
   "private": true,
