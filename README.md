@@ -49,7 +49,6 @@ export default {
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
-JSX
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
