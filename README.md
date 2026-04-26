@@ -1,4 +1,5 @@
-
+price-comparison-hub-pricepulse/
+package.json
 {
   "name": "price-compare-hub",
   "private": true,
